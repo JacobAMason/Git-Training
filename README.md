@@ -21,7 +21,7 @@ button to fork this GitHub repository.
 4. Commit this addition to your fork of the repository using the following commands:
 
         git add <name of file>
-        git commit -m "Added my open source interests."
+        git commit -m "Added my about me file."
 
 5. Push your changes to the remote repository with the following command:
 
